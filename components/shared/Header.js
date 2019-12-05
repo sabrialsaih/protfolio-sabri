@@ -7,7 +7,7 @@ class Header extends React.Component {
         const title = this.props.title;
         return (
             <React.Fragment>
-                <p>Hello Brother Im here to help you</p>
+                <p>Hello Brother Im here to help you, Hello again I update the file</p>
                 <p style={{'fontSize': '40px', 'color': 'gray'}}>but not to see you with loseing face</p>
                 <Link href='/index'>
                     <a>Home </a>
